@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GH-Pages-Portfolio3/static/css/main.f29ac305.css",
-    "main.js": "/GH-Pages-Portfolio3/static/js/main.26a68fb5.js",
+    "main.js": "/GH-Pages-Portfolio3/static/js/main.b021a573.js",
     "static/js/453.99dcf01f.chunk.js": "/GH-Pages-Portfolio3/static/js/453.99dcf01f.chunk.js",
     "static/media/rip-off-home-main.svg": "/GH-Pages-Portfolio3/static/media/rip-off-home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/sample-resume.pdf": "/GH-Pages-Portfolio3/static/media/sample-resume.1c0efdafa17e0420150b.pdf",
@@ -11,11 +11,11 @@
     "static/media/temp.PNG": "/GH-Pages-Portfolio3/static/media/temp.0da1eb280201989e2d04.PNG",
     "index.html": "/GH-Pages-Portfolio3/index.html",
     "main.f29ac305.css.map": "/GH-Pages-Portfolio3/static/css/main.f29ac305.css.map",
-    "main.26a68fb5.js.map": "/GH-Pages-Portfolio3/static/js/main.26a68fb5.js.map",
+    "main.b021a573.js.map": "/GH-Pages-Portfolio3/static/js/main.b021a573.js.map",
     "453.99dcf01f.chunk.js.map": "/GH-Pages-Portfolio3/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f29ac305.css",
-    "static/js/main.26a68fb5.js"
+    "static/js/main.b021a573.js"
   ]
 }
